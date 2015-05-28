@@ -120,7 +120,7 @@ $(window).load(function() {
 
 	$('#servicesSlider').flexslider({
 		animation: "slide",
-		directionNav: false,
+		directionNav: true,
 		controlNav: true,
 		touch: true,
 		pauseOnHover: true,
